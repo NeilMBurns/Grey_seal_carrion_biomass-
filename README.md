@@ -1,4 +1,4 @@
-# Grey_seal_carrion_biomass-
+# Grey_seal_carrion_biomass
 
 [![DOI](https://zenodo.org/badge/473205960.svg)](https://zenodo.org/badge/latestdoi/473205960)
 
